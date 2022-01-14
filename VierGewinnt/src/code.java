@@ -10,5 +10,6 @@ public class code {
 		window.setTitle("Vier Gewinnt");
 		
 	}
+	
 
 }
